@@ -27,8 +27,9 @@ Model Selection: Based on ACF and PACF plots, the models were tuned for optimal 
 Configuration: A sequential LSTM model is configured with two LSTM layers and a dense output layer.
 Evaluation: The model is evaluated on Mean Absolute Error (MAE) and Root Mean Square Error (RMSE).
 ### Results
-Statistical Models: The ARIMA model provided the best results among statistical models with relatively low prediction error.
-LSTM Model: The LSTM model achieved a notable prediction accuracy for longer-term forecasts, showcasing deep learning’s advantage in capturing complex time dependencies.
+-Statistical Models: The ARIMA model provided the best results among statistical models with relatively low prediction error.
+
+-LSTM Model: The LSTM model achieved a notable prediction accuracy for longer-term forecasts, showcasing deep learning’s advantage in capturing complex time dependencies.
 
 
 
