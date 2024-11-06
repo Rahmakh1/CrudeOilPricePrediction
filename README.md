@@ -7,8 +7,8 @@ This project focuses on time series forecasting using both statistical and neura
 Statistical Models: AR, MA, ARMA, and ARIMA models are used to capture the time-series structure of oil price data.
 Deep Learning Models: An LSTM (Long Short-Term Memory) model is applied to leverage sequence learning for more complex patterns.
 ## Authors
-Rahma Kharrat
-Myriam El Amri
+-Rahma Kharrat
+-Myriam El Amri
 
 ## Data
 The crude oil price data was sourced using the yfinance library, which retrieves financial data from Yahoo Finance. The dataset includes:
